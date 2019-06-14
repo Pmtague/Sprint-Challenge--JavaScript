@@ -36,7 +36,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 
-
+/* In JavaScript, inheritance flows inward. You can reach outside to pull a variable inward, but you can not reach inside to pull a variable out. */
 
 const external = "I'm outside the function";
 
